@@ -1,8 +1,6 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fno-internet-connection-trex-game--467037423848119576%2F&psig=AOvVaw1PP1BoVxMg0-JMJqTR2U4P&ust=1703698899743000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCNCPj5HTrYMDFQAAAAAdAAAAABAJ)](https://codegrills.in)
-
 <h1 align="center">Hi 👋, I'm Riyajul</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://ukieweb.com/services/web-development/responsive-adaptive-and-mobile-sites">
+<img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Blocked_dinosaur.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyajul505&label=Profile%20views&color=0e75b6&style=flat" alt="riyajul505" /> </p>
 
