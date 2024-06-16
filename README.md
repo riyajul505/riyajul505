@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **rlriyajul@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/itisriyajul/](https://www.linkedin.com/in/itisriyajul/)
+- 📄 Know about my experiences [(https://www.linkedin.com/in/this-is-riyajul/)](https://www.linkedin.com/in/itisriyajul/)
 
 - ⚡ Fun fact **You can't guess anything about me.**
 
