@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **web development**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/itisriyajul/](https://www.linkedin.com/in/itisriyajul/)
+- 👨‍💻 All of my projects are available at [(https://www.linkedin.com/in/this-is-riyajul/)](https://www.linkedin.com/in/itisriyajul/)
 
 - 💬 Ask me about **anything you like**
 
